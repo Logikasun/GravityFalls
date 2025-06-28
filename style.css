@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: #a1bf1b;
+}
+
+header {
+    background: url(https://learn.logikaschool.com/uploads/student/5735470/685edf9abeee3.jpg) center center/cover;
+    padding: 325px 50px;
+    color: white;
+}
+
+p {
+    background-color: #d8f74a;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    background-color: #6d9c1e;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+header h1 {
+    background-color: rgba(120, 9, 9, 0.264);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+header a {
+    color: rgb(255, 255, 255);
+    background-color: rgba(241, 108, 6, 0.749);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid rgb(195, 98, 23);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
